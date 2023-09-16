@@ -1,0 +1,81 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Fondo gris claro */
+}
+
+/* Encabezado */
+header {
+    background-color: #333; /* Negro */
+    color: #fff;
+    padding: 20px 0;
+}
+
+.navbar {
+    padding: 20px 0;
+}
+
+.navbar-brand {
+    font-size: 28px;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Menú de navegación */
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    border-color: #fff;
+}
+
+/* Sección "Who Am I" */
+#whoami {
+    background-color: #fff;
+    padding: 60px 0;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Sombra ligera */
+}
+
+#whoami h1 {
+    font-size: 36px;
+    color: #333;
+}
+
+/* Sección "Mis Retos" */
+#misretos {
+    background-color: #fff;
+    padding: 60px 0;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Sombra ligera */
+}
+
+#misretos h2 {
+    font-size: 28px;
+    color: #333;
+}
+
+/* Sección "Pasatiempos" */
+#pasatiempos {
+    background-color: #fff;
+    padding: 60px 0;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Sombra ligera */
+}
+
+#pasatiempos h2 {
+    font-size: 28px;
+    color: #333;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333; /* Negro (coincide con el encabezado) */
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 16px;
+}
